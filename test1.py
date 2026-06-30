@@ -68,3 +68,5 @@ for j in range(i):
 
 a = range(1)
 print(a)
+print(type(a))
+print(list(a))
