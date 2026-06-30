@@ -65,3 +65,6 @@ for j in range(i):
 
 # a = range(1)
 # print(a)
+
+a = range(1)
+print(a)
